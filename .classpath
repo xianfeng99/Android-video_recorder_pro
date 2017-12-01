@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="jni/camera_preview/java"/>
+	<classpathentry kind="src" path="jni/video_consumer/java"/>
+	<classpathentry kind="src" path="jni/video_encoder/java"/>
+	<classpathentry kind="src" path="jni/recorder_processor/java"/>
+	<classpathentry kind="src" path="jni/audio_effect/java"/>
+	<classpathentry kind="src" path="jni/music_decoder/java"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" path="studio"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
